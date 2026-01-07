@@ -23,7 +23,7 @@ In preparation for success planning, the AVP of Lending is reviewing the lending
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/73e0ad45-7d37-41c3-bfac-0c642785419c" />
 <br />
 <br />
 
@@ -36,7 +36,7 @@ The AVP of Lending would like to now see Personal Loans approved between $10K to
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="229" alt="Image" src="https://github.com/user-attachments/assets/8629967a-0a3b-47ae-bef9-822fced5d6ab" />
+<img width="229" height="116" alt="Image" src="https://github.com/user-attachments/assets/bcd681aa-fd6b-4af5-9c1f-91605f69aa33" />
 <br />
 <br />
 
@@ -49,7 +49,7 @@ The Manager’s Meetings have just concluded, and the Regional Director of Sales
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/f6b2a7ab-d522-4327-b306-0510a648f79c" />
+<img width="400" height="85" alt="Image" src="https://github.com/user-attachments/assets/e60e032e-5b9e-4091-9dbc-ce79a6476c17" />
 <br />
 <br />
 
@@ -62,7 +62,7 @@ It was brought to our attention that there were issues with accounts that were o
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="273" alt="Image" src="https://github.com/user-attachments/assets/2846b338-e025-475f-8ade-ac4fdb9c8a8a" />
+<img width="273" height="94" alt="Image" src="https://github.com/user-attachments/assets/4f2e8571-4128-4a6f-96ad-d4d821cf53b1" />
 <br />
 <br />
 
@@ -75,7 +75,7 @@ The Risk Management team needs a list of customers where their last transaction 
 ###
 <p align="center">
 Extracting, Sorting, Limiting, Filtering Data, and Date Functions: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/17bda2e1-97cf-4c85-87bb-dac203609e0c" />
+<img width="290" height="94" alt="Image" src="https://github.com/user-attachments/assets/fbc9ae49-648c-4f5b-b83f-59d36c8ee868" />
 <br />
 <br />
 
@@ -87,7 +87,7 @@ We are getting ready to roll out a 1 yr 5.1% APY savings account promotion for o
 ###
 <p align="center">
 Filtering Data, Date Functions, and Calculated Fields: <br/>
-<img width="373" alt="Image" src="https://github.com/user-attachments/assets/b2f6160d-e7bc-4889-880f-3779d8766898" />
+<img width="373" height="93" alt="Image" src="https://github.com/user-attachments/assets/5e58d1c4-7d5a-40b1-a960-b3b5e428c3c5" />
 <br />
 <br />
 
@@ -100,7 +100,7 @@ Our Customer Service team sends a 5 year, 10 year, 15 year, and 20 year gift to 
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="323" alt="Image" src="https://github.com/user-attachments/assets/2a50b9a7-701e-45be-9177-677f94b576f5" />
+<img width="323" height="93" alt="Image" src="https://github.com/user-attachments/assets/612934bf-b090-47c4-9845-d6a3bd54763c" />
 <br />
 <br />
 
@@ -113,7 +113,7 @@ Our Data Processing team needs a list of when all transactions batched, along wi
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="506" alt="Image" src="https://github.com/user-attachments/assets/b140befe-1b97-476d-8c29-6014f2cb1764" />
+<img width="506" height="122" alt="Image" src="https://github.com/user-attachments/assets/f47e5619-c4b0-44bf-b614-0949ff14b651" />
 <br />
 <br />
 
@@ -125,7 +125,7 @@ Finance is conducting research for our upcoming Fed stress test. They are asking
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/77479544-73f5-4b08-849c-de567d3c2af5" />
+<img width="290" height="74" alt="Image" src="https://github.com/user-attachments/assets/097c49cd-2ea6-4fdc-b98a-d3b7701aa78b" />
 <br />
 <br />
 
@@ -137,7 +137,7 @@ For all customers who opened their savings account 20 years ago, we are depositi
 ###
 <p align="center">
 Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
-<img width="341" alt="Image" src="https://github.com/user-attachments/assets/315e1489-1329-4377-ab27-8bd350cdea03" />
+<img width="341" height="104" alt="Image" src="https://github.com/user-attachments/assets/daa76c78-0d66-4512-8049-d63b757ea6c3" />
 <br />
 <br />
 
@@ -149,7 +149,7 @@ For all American Express customers who paid their credit card accounts late, ret
 ###
 <p align="center">
 Calculated Fields: <br/>
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
+<img width="461" height="143" alt="Image" src="https://github.com/user-attachments/assets/11ebc5e6-94f7-44c8-a3e4-5d4c779bf068" />
 <br />
 <br />
 
@@ -161,7 +161,7 @@ For all customers who had their non-mortgage loans rejected for at least 24 mont
 ###
 <p align="center">
 Filtering Data, Date Functions, and Calculated Fields: <br/>
-<img width="389" alt="Image" src="https://github.com/user-attachments/assets/700f0d97-b5eb-4bcf-a114-448151e5acfe" />
+<img width="389" height="146" alt="Image" src="https://github.com/user-attachments/assets/0ce1dc81-06df-4a6d-8826-0ace76ef99f5" />
 <br />
 <br />
 
@@ -173,7 +173,7 @@ Please provide a list of customers who have given feedback. We are only interest
 ###
 <p align="center">
 Joins: <br/>
-<img width="284" alt="Image" src="https://github.com/user-attachments/assets/aabd21f7-6be3-4b93-ac0f-cafd223691f1" />
+<img width="284" height="155" alt="Image" src="https://github.com/user-attachments/assets/db762e39-05bb-492d-9617-4046d318d641" />
 <br />
 <br />
 
@@ -187,7 +187,7 @@ For this promotion, please ensure the list includes the following customer detai
 ###
 <p align="center">
 Joins and Calculated Fields: <br/>
-<img width="365" alt="Image" src="https://github.com/user-attachments/assets/e31d592e-831f-4720-82af-aa9e80111545" />
+<img width="365" height="143" alt="Image" src="https://github.com/user-attachments/assets/6a9d2073-d6be-4867-9cab-c44f54c2bf65" />
 <br />
 <br />
 
@@ -199,7 +199,7 @@ Provide a list of default mortgage accounts for millennial customers located in 
 ###
 <p align="center">
 Joins: <br/>
-<img width="362" alt="Image" src="https://github.com/user-attachments/assets/81f6c01e-8fa6-44e4-83d5-b4d721dd7d12" />
+<img width="362" height="157" alt="Image" src="https://github.com/user-attachments/assets/3d56d84d-b474-4aaa-827b-b55178430523" />
 <br />
 <br />
 
@@ -212,7 +212,7 @@ Provide a list of non-mortgage customers who opened accounts within the last 4 y
 ###
 <p align="center">
 Joins: <br/>
-<img width="470" alt="Image" src="https://github.com/user-attachments/assets/734a08ff-89d5-41a3-91d6-05e15a5ee1e9" />
+<img width="470" height="196" alt="Image" src="https://github.com/user-attachments/assets/be819905-8979-491d-be0a-4df474a7869c" />
 <br />
 <br />
 
