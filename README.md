@@ -5,7 +5,7 @@ href="www.linkedin.com/in/wakizahutchins">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](<h1>SQL Techniques</h1>
+  - [Demonstrating SQL Techniques]<h1>SQL Techniques</h1>
 <img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
 
 ### SQL projects demonstrate comprehensive skills like: 
@@ -221,16 +221,14 @@ Joins: <br/>
 </p>
 
 
-)
 
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills]((https://www.virtualbadge.io/certificate-validator?credential=09351dd3-bc96-4540-b113-be2dd6938a4d))
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=09351dd3-bc96-4540-b113-be2dd6938a4d)
 
 
 <h2>📱Connect with me:</h2>
 <a href="www.linkedin.com/in/wakizahutchins" target="_blank">
-  <img align="left" alt="ENTER YOUR NAME HERE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Wakiza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
