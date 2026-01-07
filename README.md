@@ -1,5 +1,5 @@
 <h1>Hi, I'm Wakiza! <br/><a 
-href="linkedin.com/in/wakizahutchins">Data Analyst</a>
+href="www.linkedin.com/in/wakizahutchins">Data Analyst</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
@@ -14,6 +14,6 @@ href="linkedin.com/in/wakizahutchins">Data Analyst</a>
 
 
 <h2>📱Connect with me:</h2>
-<a href="linkedin.com/in/wakizahutchins" target="_blank">
+<a href="www.linkedin.com/in/wakizahutchins"_blank">
   <img align="left" alt="ENTER YOUR NAME HERE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
